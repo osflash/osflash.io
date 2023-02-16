@@ -1,5 +1,5 @@
 {
-  "name": "osflash",
+  "name": "osflash.io",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -38,5 +38,6 @@
     "prettier-plugin-tailwindcss": "^0.2.2",
     "sass": "^1.58.1",
     "tailwindcss": "^3.2.6"
-  }
+  },
+  "packageManager": "pnpm@7.5.1"
 }
