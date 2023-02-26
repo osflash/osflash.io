@@ -15,6 +15,7 @@ export const Header: React.FC = () => {
             height={40}
             className="text-transparent"
           />
+          <span className="sr-only">Foto de perfil</span>
         </div>
 
         <div className="flex flex-col space-y-1 text-sm leading-none">
@@ -30,7 +31,8 @@ export const Header: React.FC = () => {
         aria-label="Github"
         title="Github"
       >
-        <FaGithub size={32} />
+        <FaGithub size={48} className="sm:h-8 sm:w-8" />
+        <span className="sr-only">Link do projeto no GitHub</span>
       </Link>
     </header>
   )
