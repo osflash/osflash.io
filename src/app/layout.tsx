@@ -1,6 +1,7 @@
 import '~/styles/globals.scss'
 
-import { Roboto } from '@next/font/google'
+import type { Metadata } from 'next'
+import { Roboto } from 'next/font/google'
 
 import { Providers } from '~/providers'
 
@@ -21,12 +22,27 @@ const title = process.env.NEXT_PUBLIC_TITLE!
 const description = process.env.NEXT_PUBLIC_DESCRIPTION!
 const url = process.env.VERCEL_URL!
 
-export const metadata = {
+export const metadata: Metadata = {
   title: {
     default: title,
     template: `%s | ${title}`
   },
   description,
+  openGraph: {
+    title,
+    description,
+    url,
+    siteName: title,
+    locale: 'pt-BR',
+    type: 'website',
+    images: [
+      {
+        url: `${url}/api/og?w=1920&h=1080`,
+        width: 1920,
+        height: 1080
+      }
+    ]
+  },
   twitter: {
     title: title,
     card: 'summary_large_image'
@@ -43,7 +59,16 @@ export const metadata = {
     }
   },
   icons: {
+    icon: '/favicon.ico',
     shortcut: '/favicon.ico'
+  },
+  generator: title,
+  applicationName: title,
+  referrer: 'origin-when-cross-origin',
+  keywords: ['Next.js', 'ReactJS', 'JavaScript'],
+  creator: 'OsFlash',
+  verification: {
+    google: 'y1C2I_ohygdvv9_y-eXcdzlINN5LY3yR_7OYCV-Q724'
   }
 }
 
