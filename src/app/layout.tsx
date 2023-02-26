@@ -20,7 +20,7 @@ const roboto = Roboto({
 
 const title = process.env.NEXT_PUBLIC_TITLE!
 const description = process.env.NEXT_PUBLIC_DESCRIPTION!
-const url = process.env.VERCEL_URL!
+const url = process.env.NEXT_PUBLIC_URL!
 
 export const metadata: Metadata = {
   title: {
