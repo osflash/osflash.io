@@ -4,7 +4,7 @@ A passionate fullstack developer from Brazil
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,react,nextjs,tailwind,vercel,ts,js,nodejs,html,css,bots,electron,express,fastapi,figma,github,ipfs,planetscale,prisma,supabase,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,nextjs,tailwind,vercel,ts,js,nodejs,html,css,bots,electron,express,fastapi,figma,github,ipfs,planetscale,prisma,supabase,wasm,bunjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=angular,babel,bash,bootstrap,deno,docker,heroku,jquery,md,mongodb,mysql,nestjs,nuxtjs,php,postgres,redis,replit,regex,sqlite,sass,styledcomponents,sequelize,svg,threejs,vue,webpack)](https://skillicons.dev)
 
