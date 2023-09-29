@@ -1,4 +1,31 @@
-<h2 align="center">⚡ OsFlash ⚡</h2>
+# Hi 👋, I'm Felipe ⚡ OsFlash ⚡
+
+A passionate fullstack developer from Brazil
+
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,nextjs,tailwind,vercel,ts,js,nodejs,html,css,bots,electron,express,fastapi,figma,github,ipfs,planetscale,prisma,supabase,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=angular,babel,bash,bootstrap,deno,docker,heroku,jquery,md,mongodb,mysql,nestjs,nuxtjs,php,postgres,redis,replit,regex,sqlite,sass,styledcomponents,sequelize,svg,threejs,vue,webpack)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,cs,cloudflare,codepen,discord,gcp,git,gitlab,godot,ai,linkedin,linux,ps,py,stackoverflow,sentry,solidity,tensorflow,twitter,unity,unreal,visualstudio,wordpress,xd)](https://skillicons.dev)
+
+
+<div align="center">
+  <a href="https://github.com/osflash/" target="_blank">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=osflash&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=osflash&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=osflash&show_icons=true" />
+    </picture>
+  </a>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/osflash/" target="_blank">
@@ -18,24 +45,6 @@
   </a>
 </div>
 
-##
-
-<div align="center">
-  <a href="https://github.com/osflash/" target="_blank">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=osflash&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=osflash&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=osflash&show_icons=true" />
-    </picture>
-  </a>
-</div>
-
 ---
 
-<p align="center">Feito com ❤️ por OsFlash ⚡</p>
+<p align="center">Made with ❤️ by OsFlash ⚡</p>
